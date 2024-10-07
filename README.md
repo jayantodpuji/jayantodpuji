@@ -6,6 +6,10 @@ Most of the time i worked as backend developer, but now i am expanding to full-s
 
 Currently work with Go, and javascript.
 
+## Tech Stack
+There are tech stack i have been learned or used with:
+Go, Javascript, Typescript, Ruby, Elixir, HTML, CSS, bash, C, Java, Ruby on Rails, ReactJS, PostgreSQL, MySQL, Redis, etcd, Kubernetes, AWS, ABAP 
+
 ## Currently Doing
 
 TBD
