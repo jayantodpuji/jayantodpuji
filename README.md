@@ -10,7 +10,7 @@ Currently work with Go, and javascript.
 
 TBD
 
-## Languages :speaking_head:
+## Languages
 1. English | C2 Proficiency ([EFSET Certificate](https://cert.efset.org/fm7xWX))
 2. Bahasa | My mother language
 
