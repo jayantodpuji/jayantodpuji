@@ -11,9 +11,13 @@ There are tech stack i have been learned or used with:
 
 Go, Javascript, Typescript, Ruby, Elixir, HTML, CSS, bash, C, Java, Ruby on Rails, ReactJS, PostgreSQL, MySQL, Redis, etcd, Kubernetes, AWS, ABAP 
 
+
 ## Currently Doing
 
-TBD
+1. Reading book: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
+2. Reading book: Pyschology of Money by Morgan Housel
+3. Learning Norwegian and Japanese language
+
 
 ## Languages
 1. English | C2 Proficiency ([EFSET Certificate](https://cert.efset.org/fm7xWX))
