@@ -15,6 +15,7 @@ Go, Javascript, Typescript, Ruby, Elixir, HTML, CSS, bash, C, Java, Ruby on Rail
 ## Currently Doing
 
 1. Reading book: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
+2. Learning Bokmål (Norway) language
 
 ## Languages
 1. English | C2 Proficiency ([EFSET Certificate](https://cert.efset.org/fm7xWX))
